@@ -1,0 +1,5 @@
+target 'FMDB_Demo' do
+
+    pod 'FMDB'
+
+end
